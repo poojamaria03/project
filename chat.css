@@ -1,0 +1,13 @@
+.form-control{
+    width: 50rem;
+}
+img{
+    position: fixed;
+    top: 27%;
+    left: 20%;
+    opacity: 0.3;
+    height: 60%;
+}
+.accordion{
+    overflow-y: scroll;
+}

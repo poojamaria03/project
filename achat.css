@@ -1,0 +1,20 @@
+body{
+    margin: 0s;
+}
+.mycontainer{
+    margin: auto;
+    width:47rem;
+    height: 30rem;
+    background-color: blanchedalmond;
+    margin-top: 4%;
+    margin-bottom: 1%;
+}
+.input-group{
+    position: absolute;
+    left: 22%;
+    width: 50%;
+}
+.form-control{
+    border: 2px solid black;
+  
+}
